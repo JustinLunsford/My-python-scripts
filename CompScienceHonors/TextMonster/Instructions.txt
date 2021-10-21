@@ -1,0 +1,2 @@
+These two files go together, TextMonster is the main functionality script, GameClasses contains the classes that TextMonster uses to function. I divided things like this to
+avoid clutter in TextMonster, as it's where I would be spending most of my time making the game function.
